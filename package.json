@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "airplane-seating-arrangement",
+  "main": "./bin/app.js",
+  "bin":{
+    "arrangeSeat": "./bin/app.js"
+  },
+  "author": "Farhad",
+  "license": "ISC"
+}
